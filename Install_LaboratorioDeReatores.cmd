@@ -1,0 +1,2 @@
+tar -xf "Y:\Applications\Laboratorio de Reatores\setup.zip" -C "C:\Program Files"
+mklink "C:\Users\Public\Desktop\Laboratorio de Reatores" "C:\Program Files\Laboratorio de Reatores\Laboratorio de Reatores.exe"

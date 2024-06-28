@@ -1,0 +1,1 @@
+xcopy "Y:\Applications\DB Browser for SQLite\DB Browser for SQLite.lnk" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs" /y

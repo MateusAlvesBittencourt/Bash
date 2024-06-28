@@ -1,0 +1,1 @@
+mklink "C:\Users\Public\Desktop\Power World" "C:\Program Files\PowerWorld\Simulator Education-Evalution 23\pwrworld.exe"

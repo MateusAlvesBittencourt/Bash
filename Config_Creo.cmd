@@ -1,0 +1,10 @@
+xcopy "Y:\Applications\Creo\config.pro" "C:\Program Files\PTC\Creo 7.0.1.0\Common Files\text" /y /s /c /i /q
+mkdir "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Direct 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Distributed Batch 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Layout 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Modelcheck 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Parametric 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo Simulate 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+move "C:\Users\Public\Desktop\Creo UI Editor 7.0.1.0.lnk" "C:\Users\Public\Desktop\PTC Creo"
+del /s /q "C:\Users\Public\Desktop\Creo UI Editor 7.0.1.0.lnk"

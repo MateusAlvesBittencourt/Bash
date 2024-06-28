@@ -1,0 +1,1 @@
+mklink "C:\Users\Public\Desktop\BioStat 5" "C:\Program Files (x86)\BioEstat 5.0\BioEstat.exe"

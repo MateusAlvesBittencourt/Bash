@@ -1,0 +1,2 @@
+Reg.exe add "HKLM\SOFTWARE\Policies\Google\Chrome" /v "HomepageLocation" /t REG_SZ /d "pucrs.br" /f
+Reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Edge" /v "HomepageLocation" /t REG_SZ /d "https://www.pucrs.br/" /f

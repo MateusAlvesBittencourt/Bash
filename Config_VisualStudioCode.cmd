@@ -1,0 +1,1 @@
+tar -xf "Y:\Applications\Visual Studio Code\extensions.zip" Code -C "C:\Program Files\Microsoft VS Code\resources\app"

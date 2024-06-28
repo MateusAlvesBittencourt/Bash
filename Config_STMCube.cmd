@@ -1,0 +1,1 @@
+powershell -command "Expand-Archive -Path 'Y:\Applications\STM32CudeIDE\setup.zip' -DestinationPath 'C:\Users\Default'"

@@ -1,0 +1,8 @@
+mkdir "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SolidWorks 2023.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SOLIDWORKS Composer 2023.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SOLIDWORKS Composer Player 2023.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SOLIDWORKS Electrical.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SOLIDWORKS Manage 2023.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\SOLIDWORKS Visualize 2023.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"
+move "C:\Users\Public\Desktop\eDrawings 2023 x64 Edition.lnk" "C:\Users\Public\Desktop\SolidWorks 2023"

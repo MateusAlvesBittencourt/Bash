@@ -1,0 +1,1 @@
+certutil -addstore "Root" PUCRS-CA_Current_Base-64_sha256RSA-2048-Bits_Validade-28-06-2036.cer

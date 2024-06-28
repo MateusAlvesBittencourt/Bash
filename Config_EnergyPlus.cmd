@@ -1,0 +1,1 @@
+mklink "C:\Users\Public\Desktop\Energy Plus" "C:\EnergyPlusV24-1-0\EP-Launch.exe"
